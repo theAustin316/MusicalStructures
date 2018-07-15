@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Muzik - Feel It</string>
+    <string name="mymusic">My Music</string>
+    <string name="album">Albums</string>
+    <string name="artist">Artists &amp; Albums</string>
+    <string name="update">Updates</string>
+    <string name="song1">Soorma - Anthem</string>
+    <string name="artist1">Shankar Mahadevan - Soorma</string>
+    <string name="song2">Kar Har Maidaan Fateh</string>
+    <string name="artist2">Sukhwinder Singh - Sanju</string>
+    <string name="song3">Dil Diya Gallan</string>
+    <string name="artist3">Atif Aslam - Tiger Zinda Hai</string>
+    <string name="song4">Baarish</string>
+    <string name="artist4">AshKing - Half Girlfriend</string>
+    <string name="song5">Hawayien</string>
+    <string name="artist5">Pritam Chakraborty - Jab Harry Met Sejal</string>
+    <string name="song6">Suit Suit</string>
+    <string name="artist6">Guru Randhawa - Hindi Medium</string>
+    <string name="song7">Mere Rashke Qamar</string>
+    <string name="artist7">Nusrat Fateh Ali Khan - Baadshaho</string>
+    <string name="song8">Ghoomar</string>
+    <string name="artist8">Shreya Ghoshal - Padmaavat</string>
+    <string name="song9">Tera Yaar Hoon Mai</string>
+    <string name="artist9">Arjit Singh - Sonu Ke Titu Ki Sweety</string>
+    <string name="song10">Sweety Tera Drama</string>
+    <string name="artist10">Pawini Pandey - Bareilly Ki Barfi</string>
+    <string name="sing1">Nusrat Fateh Ali Khan</string>
+    <string name="sing2">Arjit Singh</string>
+    <string name="sing3">Pritam Chakraborty</string>
+    <string name="sing4">Shreya Ghoshal</string>
+    <string name="sing5">Pawini Pandey</string>
+    <string name="sing6">Ash King</string>
+    <string name="sing7">Shankar Mahadevan</string>
+    <string name="sing8">Guru Randhawa</string>
+    <string name="sing9">Sukhwinder Singh</string>
+    <string name="sing10">Atif Aslam</string>
+    <string name="gif">muzik.gif</string>
+    <string name="quit">Do You Really Want To Quit ??</string>
+    <string name="quitmsg">That\'s it, done with listening your songs. Why don\'t you wait here and explore us more and break into the Nirvana</string>
+    <string name="neg">Nope</string>
+    <string name="yep">Yep</string>
+    <string name="affirm">As you Wish !!</string>
+    <string name="negate">Break into the Nirvana !!</string>
+    <string name="title">MUZIK - Feel It !!!!</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \n\n
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="trend">What\'s trending ??</string>
+
+</resources>

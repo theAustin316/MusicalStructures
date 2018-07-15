@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="prog_margin">28dp</dimen>
+    <dimen name="textsize">36sp</dimen>
+    <dimen name="text_mgbtn">60dp</dimen>
+    <dimen name="tool_padding">22dp</dimen>
+    <dimen name="view_height">4dp</dimen>
+    <dimen name="height">0dp</dimen>
+    <dimen name="collapse_height">500dp</dimen>
+    <dimen name="colla_pad">12dp</dimen>
+    <dimen name="colla_txtsize">18sp</dimen>
+    <dimen name="list_ht">88dp</dimen>
+    <dimen name="list_pad">16dp</dimen>
+    <dimen name="txt_layht">44dp</dimen>
+    <dimen name="player_ht">400dp</dimen>
+    <dimen name="song_size">24sp</dimen>
+    <dimen name="art_margin">8dp</dimen>
+    <dimen name="btn_margin">175dp</dimen>
+    <dimen name="btn_mgTop">25dp</dimen>
+    <dimen name="mg_left">50dp</dimen>
+    <dimen name="mg_right">300dp</dimen>
+    <dimen name="card_rad">8dp</dimen>
+    <dimen name="trend_margin">18dp</dimen>
+    <dimen name="col_width">100dp</dimen>
+    <dimen name="hori_spac">90dp</dimen>
+</resources>

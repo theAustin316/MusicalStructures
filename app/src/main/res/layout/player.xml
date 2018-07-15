@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.7"
+            android:scaleType="fitXY"
+            android:src="@drawable/bg1" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/gif"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/player_ht"
+            android:layout_margin="@dimen/colla_pad"
+            tools:src="@drawable/karhar" />
+
+        <TextView
+            android:id="@+id/playing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/gif"
+            android:gravity="center"
+            android:textColor="@color/backish"
+            android:textSize="@dimen/song_size"
+            android:textStyle="bold"
+            tools:text="@string/song2" />
+
+        <TextView
+            android:id="@+id/artz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/playing"
+            android:layout_margin="@dimen/art_margin"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center"
+            android:textColor="@color/backish"
+            android:textSize="@dimen/colla_txtsize"
+            tools:text="@string/sing9" />
+
+        <ImageButton
+            android:id="@+id/play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/artz"
+            android:layout_marginLeft="@dimen/btn_margin"
+            android:layout_marginTop="@dimen/btn_mgTop"
+            android:background="@drawable/rnd"
+            android:src="@drawable/pause_icon"
+            android:visibility="invisible" />
+
+        <ImageButton
+            android:id="@+id/pause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/artz"
+            android:layout_marginLeft="@dimen/btn_margin"
+            android:layout_marginTop="@dimen/btn_mgTop"
+            android:background="@drawable/rnd"
+            android:src="@drawable/pause" />
+
+        <ImageButton
+            android:id="@+id/backward"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/artz"
+            android:layout_marginLeft="@dimen/mg_left"
+            android:layout_marginTop="@dimen/btn_mgTop"
+            android:background="@drawable/rnd"
+            android:src="@drawable/backward" />
+
+        <ImageButton
+            android:id="@+id/forward"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/artz"
+            android:layout_marginLeft="@dimen/mg_right"
+            android:layout_marginTop="@dimen/btn_mgTop"
+            android:background="@drawable/rnd"
+            android:src="@drawable/forward" />
+
+    </RelativeLayout>
+</ScrollView>
