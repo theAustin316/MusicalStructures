@@ -25,7 +25,7 @@ public class UpdatesFragment extends Fragment {
         grids.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.wynk.com"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.wynk.in"));
                 startActivity(intent);
             }
         });
